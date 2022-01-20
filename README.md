@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 
 - 前端
 - js/ts/react/vue/node...
+- 杭州
+- kingswang007@qq.com
+
+
+### 2022 flag
+1. 深入react源码学习 
+2. 日刷一题
+3. 每周两到三篇blog 
+4. 学习英语
